@@ -206,7 +206,7 @@
     "invite": {
       "message": "Похоже, этот пользователь ещё не пользуется npmx. Хотите рассказать ему о проекте?",
       "share_button": "Поделиться в Bluesky",
-      "compose_text": "Привет, @{handle}! Уже смотрел npmx.dev? Это быстрый, современный и open-source браузер для реестра npm.\nhttps://npmx.dev"
+      "compose_text": "Привет, {'@'}{handle}! Уже смотрел npmx.dev? Это быстрый, современный и open-source браузер для реестра npm.\nhttps://npmx.dev"
     }
   },
   "package": {
